@@ -29,7 +29,7 @@ import { useNavigate } from 'react-router-dom';
 import FlexBetween from 'components/FlexBetween';
 
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 const Navbar = () => {
   const [isMobileMenuToggled, setIsMobileMenuToggled] = useState(false);
@@ -47,7 +47,7 @@ const Navbar = () => {
   const alt = theme.palette.background.alt;
 
   const fullName = `${user?.firstName} ${user?.lastName}`;
-  // const fullName =  "SHAMITHA";
+  // const fullName =  "";
 
   const [searchUSer, setSearchUser] = useState(undefined);
   const [userSearchList, setUserSearchList] = useState([user]);

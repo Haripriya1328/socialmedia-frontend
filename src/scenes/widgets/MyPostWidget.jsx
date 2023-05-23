@@ -28,7 +28,7 @@ import { setPosts } from 'state';
 import VideoUpload from './VideoUpload';
 import { getStorage, ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 const MyPostWidget = ({picturePath}) => {
     const dispatch = useDispatch();

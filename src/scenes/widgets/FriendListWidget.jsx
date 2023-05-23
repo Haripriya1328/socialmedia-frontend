@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { setFriends } from 'state';
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 
 const FriendListWidget = ({ userId, isUser }) => {

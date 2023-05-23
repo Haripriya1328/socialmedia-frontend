@@ -13,7 +13,7 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { setPostedUser } from 'state';
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 const UserWidget = ({ userId, picturePath, profileUrl }) => {
     const [ user, setUser ] = useState(null);

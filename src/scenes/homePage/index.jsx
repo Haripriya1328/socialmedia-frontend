@@ -23,12 +23,12 @@ console.log(profileUrl)
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBsI8KZSX5d3O55-98HKlPBUh0BDSJ_meI",
-  authDomain: "sma1-1a501.firebaseapp.com",
-  projectId: "sma1-1a501",
-  storageBucket: "sma1-1a501.appspot.com",
-  messagingSenderId: "334054976510",
-  appId: "1:334054976510:web:040c64a73bebfd9e876eaf"
+  apiKey: "AIzaSyAZn5urcK_f5cQdgoV_YGGzSDXlAU1X58w",
+  authDomain: "socialmedia-dc79c.firebaseapp.com",
+  projectId: "socialmedia-dc79c",
+  storageBucket: "socialmedia-dc79c.appspot.com",
+  messagingSenderId: "555256404993",
+  appId: "1:555256404993:web:739abfeecbb1c4afc1b400"
 };
 
 // Initialize Firebase

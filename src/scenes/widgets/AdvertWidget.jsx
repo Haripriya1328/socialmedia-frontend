@@ -2,7 +2,7 @@ import { Typography, useTheme } from "@mui/material";
 import FlexBetween from "components/FlexBetween";
 import WidgetWrapper from "components/WidgetWrapper";
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 
 const AdvertWidget = () => {

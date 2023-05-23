@@ -22,7 +22,7 @@ import FlexBetween from "components/FlexBetween";
 import Friend from 'components/Friend';
 import WidgetWrapper from "components/WidgetWrapper";
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 const PostWidget =({
     postId,

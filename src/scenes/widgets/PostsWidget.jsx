@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { setPosts } from "state";
 import PostWidget from './PostWidget';
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 const PostsWidget = ({ userId, isProfile = false, isUser}) => {
     const dispatch = useDispatch();

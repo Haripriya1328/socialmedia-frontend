@@ -15,7 +15,7 @@ import { setFriends } from "state";
 import FlexBetween from "./FlexBetween";
 import UserImage from "./UserImage";
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 const Friend = ({ friendId, name, subtitle, userPicturePath,userProfileUrl, isUser, isUserPost}) => {
 

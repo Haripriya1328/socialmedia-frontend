@@ -9,7 +9,7 @@ import MyPostWidget from 'scenes/widgets/MyPostWidget';
 import PostsWidget from 'scenes/widgets/PostsWidget';
 import UserWidget from 'scenes/widgets/UserWidget';
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 const ProfilePage = () => {
 const [user, setUser] = useState(null);

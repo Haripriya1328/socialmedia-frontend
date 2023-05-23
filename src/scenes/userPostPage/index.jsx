@@ -43,7 +43,7 @@ const isNonMobileScreens = useMediaQuery("(min-width:1000px)");
 //   // setUser(data);
 // }
 
-const server = 'https://socialmedia-server-k22t.onrender.com';
+const server = 'https://stackoverflow-back3.onrender.com/';
 
 
 const getUserPost = async () => {
