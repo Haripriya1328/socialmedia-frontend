@@ -56,7 +56,7 @@ const PostWidget =({
     const navigate = useNavigate();
 
     // const deployingClientUrl = `http://localhost:3000`
-    const deployingClientUrl = `https://socialmedia-client-snyv.onrender.com`
+    const deployingClientUrl = `https://socialmediafront.onrender.com/`
  
     const handleShare = () => {
         copy(deployingClientUrl+"/userPost/"+ postId);
